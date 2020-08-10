@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0cb8b9bce8d884f9066b4d5ef5d1f4fe",
+    "revision": "b9ef71cdbda9feb0de49280b5de3db11",
     "url": "/mindit/index.html"
   },
   {
-    "revision": "1fb41774f66918c5496f",
-    "url": "/mindit/static/css/main.a453d548.chunk.css"
+    "revision": "66bbaee975ce69d39d3e",
+    "url": "/mindit/static/css/main.9a3080f8.chunk.css"
   },
   {
     "revision": "dd6c063f0522d7ad770d",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mindit/static/js/2.32f33615.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1fb41774f66918c5496f",
+    "revision": "66bbaee975ce69d39d3e",
     "url": "/mindit/static/js/main.242aab2f.chunk.js"
   },
   {
